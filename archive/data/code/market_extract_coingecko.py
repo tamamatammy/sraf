@@ -16,7 +16,7 @@ url_target='ping'
 
 cg=CoinGeckoAPI()
 
-print(cg.ping())
+# print(cg.ping())
 
 # price
 
@@ -40,6 +40,23 @@ busd_usd = market_extract(_id = "binance-usd")
 usdt_usd = market_extract(_id = "tether")
 dai_usd = market_extract(_id = "dai")
 frax_usd = market_extract(_id = "frax")
+
+
+
+
+usdc_usd = market_extract(_id = "usd-coin", _days = 10, _interval = 'hourly', save = False)
+busd_usd = market_extract(_id = "binance-usd", _days = 10, _interval = 'hourly', save = False)
+usdt_usd = market_extract(_id = "tether", _days = 10, _interval = 'hourly', save = False)
+dai_usd = market_extract(_id = "dai", _days = 10, _interval = 'hourly', save = False)
+frax_usd = market_extract(_id = "frax", _days = 10, _interval = 'hourly', save = False)
+
+
+
+
+
+
+
+
 
 
 # api url https://www.coingecko.com/en/api/documentation
