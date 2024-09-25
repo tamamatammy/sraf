@@ -10,7 +10,7 @@ In the first part, we analyse the key challenges for stablecoin risk assessment,
 
 The second section inroduces the SRAF approach and exlain how it can be used to analyse stablecoin risks
 
-- [Summary of the SRAF approach](link)
+- [Summary of the SRAF approach](https://github.com/tamamatammy/sraf/blob/main/research/defining_stablecoin_risk.md)
 - [SRAF Risk Categories and Their Risk Metrics
   - [Asset Backing](link)
   - [Stability Mechanism and Historical Stability Performance](link)
