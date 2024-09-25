@@ -10,3 +10,8 @@ These assets, also referred to as collateral, are categorised as **exogenous ass
 - **Implicit asset**. Some stablecoins do not have explicit assets as collateral, instead relying on market mechanisms—such as speculators and incentive systems—to dynamically adjust supply and stabilise prices. While similar to endogenous assets, implicit assets are not tokenized and thus do not have an observable market price. An example of this model is Basis, a project that shut down in 2018.
 
 It’s common for stablecoin projects to use a mix of exogenous and endogenous assets as collateral.
+
+The table below provides examples of the asset types chosen by various stablecoins to back their value, including projects like Terra’s UST, Iron, Basis, and NuBit, all of which have since failed.
+
+![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/asset_type_example.jpg)
+
