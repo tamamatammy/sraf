@@ -5,7 +5,7 @@ Historically, stablecoin popularity was driven by market metrics like market sha
 
 In the first part, we analyse the key challenges for stablecoin risk assessment, including a review of existing approaches and case studies of two major depeg events: the collapse of Terra and the temporary depeg of USDC.
 
-- [Defining Stablecoin Risk](link)
+- [Defining Stablecoin Risk](https://github.com/tamamatammy/sraf/blob/main/research/defining_stablecoin_risk.md)
 - [Issue with Existing Risk Assessment Approach](link)
 
 The second section inroduces the SRAF approach and exlain how it can be used to analyse stablecoin risks
