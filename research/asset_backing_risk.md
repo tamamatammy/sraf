@@ -49,4 +49,4 @@ For custodial stablecoins, users must rely on centralized entities for asset ver
 
 The table below provides example of high-level asset bakcing risk analysis for USDC, USDT, DAI, and LUSD as of Oct 2023.
 
-
+![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/asset_back_analysis.jpg)
