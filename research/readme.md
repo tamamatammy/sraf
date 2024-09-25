@@ -8,10 +8,9 @@ In the first part, we analyse the key challenges for stablecoin risk assessment,
 - [Defining Stablecoin Risk](https://github.com/tamamatammy/sraf/blob/main/research/defining_stablecoin_risk.md)
 - [Issue with Existing Risk Assessment Approach](https://github.com/tamamatammy/sraf/blob/main/research/issues.md)
 
-The second section inroduces the SRAF approach and exlain how it can be used to analyse stablecoin risks
+The second section introduces the Stablecoin Risk Assessment Framework (SRAF) and explains how it can effectively analyse and evaluate stablecoin. The framework breaks down the stablecoin risk assessment into several categories, where stablecoins that have been assigned with the same value are exposed to similar types of risks. Given the complexity of stablecoin design and the current limitations of a fully data-driven approach, SRAF employs a hybrid method, combining both quantitative and qualitative assessments. Rather than providing a single overall risk score, the framework enables users to gain a deeper understanding of the various risks involved and the potential negative impacts associated with each type of risk.
 
-- [Summary of the SRAF approach](https://github.com/tamamatammy/sraf/blob/main/research/defining_stablecoin_risk.md)
-- [SRAF Risk Categories and Their Risk Metrics
+The following are the risk categories and the recommended metrics for assessing each category:
   - [Asset Backing](link)
   - [Stability Mechanism and Historical Stability Performance](link)
   - [Issuance and Redemption process](link)
