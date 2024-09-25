@@ -20,12 +20,12 @@ The framework breaks down the stablecoin risk assessment into several categories
 
 The following are the risk categories and the recommended metrics for assessing each category:
   - [Asset Backing](link)
-  - [Stability Mechanism and Historical Stability Performance](link)
-  - [Issuance and Redemption process](link)
-  - [Liquidity](link)
-  - [Governance](link)
-  - [Smartcontract](link)
-  - [Oracle](link)
+  - [Stability Mechanism and Historical Stability Performance](link) - not done
+  - [Issuance and Redemption process](link) - not done
+  - [Liquidity](link) - not done
+  - [Governance](link) - not done
+  - [Smartcontract](link) - not done
+  - [Oracle](link) - not done
   - [Regulatory Risk](link)
 
 In the third section, we introduce a new stablecoin risk assessment framework that evaluates risk across multiple dimensions and highlights the need for an overall stablecoin rating.
