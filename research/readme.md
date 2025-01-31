@@ -19,7 +19,7 @@ At a high level, stablecoins within the same type group tend to share similar ri
 The framework breaks down the stablecoin risk assessment into several categories, where stablecoins that have been assigned with the same value are exposed to similar types of risks. Given the complexity of stablecoin design and the current limitations of a fully data-driven approach, SRAF employs a hybrid method, combining both quantitative and qualitative assessments. Rather than providing a single overall risk score, the framework enables users to gain a deeper understanding of the various risks involved and the potential negative impacts associated with each type of risk.
 
 The following are the risk categories and the recommended metrics for assessing each category:
-  - [Asset Backing](link)
+  - [Asset Backing](https://github.com/tamamatammy/sraf/blob/main/research/asset_backing_risk.md)
   - [Stability Mechanism and Historical Stability Performance](link) - not done
   - [Issuance and Redemption process](link) - not done
   - [Liquidity](link) - not done
