@@ -21,7 +21,7 @@ The framework breaks down the stablecoin risk assessment into several categories
 The following are the risk categories and the recommended metrics for assessing each category:
   - [Asset Backing](https://github.com/tamamatammy/sraf/blob/main/research/asset_backing_risk.md)
   - [Stability Mechanism and Historical Stability Performance](https://github.com/tamamatammy/sraf/blob/main/research/stability_risk.md)
-  - [Issuance and Redemption process](link) - not done
+  - [Issuance and Redemption process](https://github.com/tamamatammy/sraf/blob/main/research/issuance_redemption.md)
   - [Liquidity](link) - not done
   - [Governance](link) - not done
   - [Smartcontract](link) - not done
