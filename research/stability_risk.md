@@ -34,7 +34,7 @@ The SRAF framework has chosen five risk measures, and each provides a unique way
 The chosen metrics can be used individually or together based on users’ needs. They do not only focus on price fluctuations but also expected losses that may be incurred when holding
 
 ### Metrics
-**Volatility metric: Price Volatility** 
+<ins>**Volatility metric: Price Volatility**</ins>
 
 Price volatility estimates how much the value of stablecoin fluctuates around its mean price over a certain period of time. High volatility may indicate that the price of stablecoin can change dramatically in either direction. 
 
@@ -57,7 +57,7 @@ $~~~~$ r: $~~~~$  Logarithmic return $\log{price_{current} \over price_{previous
 \
 $~~~~$ i: $~~~~$  the $i_th$ period in the sample period
 
-**Volatility metric: standard deviation of peg difference** 
+</ins>**Volatility metric: standard deviation of peg difference**</ins>
 
 This metric measures how much past stablecoin prices deviated from its pegged value over a certain period of time (e.g. over an hour, over one day or over one week). The calculation is:
 
@@ -78,19 +78,22 @@ $~~~~$ p_i: $~~~~~~~~~~~~~~~$ Stablecoin price at period i
 $~~~~$ i: $~~~~~~~~~~~~~~~~~$ the $i_th$ period in the sample period
 
 
-**Expected loss metric: Value-at-Risk**
+<ins>**Expected loss metric: Value-at-Risk**</ins>
+
 Value-at-Risk (VaR) estimates the possible losses incurred by holding a stablecoin for a certain period of time (e.g. one hour, one day or one week), with a given probability. For example, a 95% hourly VaR of 0.2 indicates there is a 95% chance that the underlying stablecoin will not lose more than 20% of its value over the next hour.
 
 There are three different methods of calculating VaR - Variance-Covariance, Historical Simulation, and Monte Carlo simulation. Each modelling method comes with certain data assumptions and gives different VaR calculations. For example, the Variance-Covariance method is a parametric method that assumes the price returns follow a normal distribution and the Historical Simulation method is a non-parametric method that relies solely on the historical data. It is up to the framework users to select one or a hybrid approach to model VaR for stablecoins.
 
 [var modelling in detail]
 
-**Expected loss metric: Tail Value-at-Risk**
+<ins>**Expected loss metric: Tail Value-at-Risk**</ins>
+
 Tail VaR is another metric that can be used to measure the potential losses of holding a stablecoin over a certain period of time. It is very similar to VaR, but unlike VaR which only determines risk at a given confidence level,  TVaR considers all losses that are worse than the given VaR level. It is calculated as the mean of all losses that are worse than or equal to VaR 
 
 [TVaR modelling in detail].
 
-**Expected loss metric: Maximum drawdown**
+<ins>**Expected loss metric: Maximum drawdown**</ins>
+
 Maximum drawdown (MDD) is an indicator of downside risk that measures the stablecoin’s largest price drop from peak to trough. It indicates the maximum loss that can be insured by holding the given stablecoin over a certain period of time (e.g. can be over one-month, one-quarter, or even one-year).
 
 \
