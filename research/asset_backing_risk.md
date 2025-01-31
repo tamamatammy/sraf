@@ -21,25 +21,15 @@ The following is a comprehensive list of risk metrics recommended for assessing 
 **1. Asset Type**: how collateral asset values are derived - exogenous, endogenous or implicit
 
 
-**2. Asset Backing Ratio**
+**2. Asset Backing Ratio**: This ratio compares the value of assets backing the stablecoin to the value of stablecoins in circulation, ensuring the stablecoin is at least 100% backed. This metric applies only to assets with observable market prices.
 
-This ratio compares the value of assets backing the stablecoin to the value of stablecoins in circulation, ensuring the stablecoin is at least 100% backed. This metric applies only to assets with observable market prices.
+**3. Asset Breakdown**: A detailed list showing the assets backing the stablecoin, along with their respective percentage breakdown. This is especially important for non-custodial stablecoins, where asset composition is transparent and critical to risk assessment.
 
-**3. Asset Breakdown**
+**4. Validation of Real-World Assets (RWA)**: Evidence confirming the ownership of off-chain assets. For example, this could include the name of the RWA custodian and the tickers of tradable financial instruments (e.g., bonds, loans, securities, commodities).
 
-A detailed list showing the assets backing the stablecoin, along with their respective percentage breakdown. This is especially important for non-custodial stablecoins, where asset composition is transparent and critical to risk assessment.
+**5. Asset Location**: The physical and legal jurisdiction of the assets and their custodians, where applicable. This includes naming the financial institutions responsible for holding off-chain assets.
 
-**4. Validation of Real-World Assets (RWA)**
-
-Evidence confirming the ownership of off-chain assets. For example, this could include the name of the RWA custodian and the tickers of tradable financial instruments (e.g., bonds, loans, securities, commodities).
-
-**5. Asset Location**
-
-The physical and legal jurisdiction of the assets and their custodians, where applicable. This includes naming the financial institutions responsible for holding off-chain assets.
-
-**6. Information Quality**
-
-The quality of asset-related information is measured by two factors: (1) the transparency of the information and (2) the frequency of verification. Most non-custodial stablecoins provide top-quality information as their reserves are held on-chain, offering full transparency.
+**6. Information Quality**: The quality of asset-related information is measured by two factors: (1) the transparency of the information and (2) the frequency of verification. Most non-custodial stablecoins provide top-quality information as their reserves are held on-chain, offering full transparency.
 
 For custodial stablecoins, users must rely on centralized entities for asset verification. The SRAF framework suggests to assess imformation quality by answering the following questions:
 
@@ -47,6 +37,6 @@ For custodial stablecoins, users must rely on centralized entities for asset ver
 - Audit vs. Attestation: Audits involve a formal examination of the accounts holding the stablecoin reserve, while attestations simply review reserve information provided by the stablecoin project. Audits offer a higher level of assurance.
 - Frequency of Verification: More frequent verification is generally better, but the quality of the verification process is key—a less frequent audit is often more reliable than frequent attestations.
 
+## Asset Backing Risk Assessment Example
 The table below provides example of high-level asset bakcing risk analysis for USDC, USDT, DAI, and LUSD as of Oct 2023.
-
 ![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/asset_back_analysis.jpg)
