@@ -30,4 +30,4 @@ The following are the risk categories and the recommended metrics for assessing 
 
 In the third section, we introduce a new stablecoin risk assessment framework that evaluates risk across multiple dimensions and highlights the need for an overall stablecoin rating.
 
-- [Current challenge of having a single rating](link)
+- [Current challenge of having a single rating](https://github.com/tamamatammy/sraf/blob/main/research/single_rating_challenge.md)
