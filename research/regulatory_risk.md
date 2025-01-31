@@ -34,3 +34,16 @@ As the crypto sector is still relatively young, we are yet to see any mature reg
 - **Restricting operations**. Authorities may restrict stablecoin operations in their jurisdictions. For example, Libra faced significant regulatory scrutiny from U.S. and EU regulators, leading to a restructuring of the project. This regulatory pressure ultimately resulted in the project's rebranding and changes to meet compliance requirements. Despite these efforts, Diem's assets were sold to Silvergate Bank in early 2022, effectively ending the original project's ambitions.
 
 ## Risk Metrics
+The stablecoin and crypto sector is still relatively young, and a mature regulatory  framework has yet to be established. Most regulations are still in the discussion or consultation phase, making it challenging to quantify regulatory risk. Instead, our goal is to define a list of qualitative metrics to help stablecoin users better understand the regulatory risks involved.
+We believe that regulatory risk for stablecoin users is largely driven by who the authorities are and whether they are friendly towards crypto. The following are the risk factors we have chosen to address these two questions:
+
+- **Stablecoin Type**: Whether the stablecoin is custodial or non-custodial.
+- **Company Jurisdiction**: The country or region where the stablecoin project conducts its business.
+- **Key Markets Breakdown**: The percentage breakdown of stablecoin activities in key markets.
+- **Regulatory History**: Past actions taken by authorities against stablecoin or crypto-related projects.
+- **Stablecoin-Specific Regulatory Framework in Company Jurisdiction**: Whether a stablecoin-specific regulatory framework is established in the stablecoin’s company jurisdiction.
+- **Stablecoin-Specific Regulatory Framework in Key Markets**: Whether a stablecoin-specific regulatory framework is established in the stablecoin’s key markets.
+
+These qualitative metrics can provide a basic understanding of the regulatory risks that stablecoin users may face.
+
+## Regulatory Risk Assessment Example
