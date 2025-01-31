@@ -21,3 +21,4 @@ The risk that the value of the collateral declines faster than the liquidation h
 
 ## Stability Mechanism Assessment Example
 The follwing table shows a high-level stability mechanism analysis of USDC, USDT, DAI and LUSD 
+![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/stability_mechanism_example.jpg)
