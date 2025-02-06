@@ -21,7 +21,11 @@ The difference between the highest price a buyer is willing to pay (bid) and the
 - **Market Depth**
 While the bid-ask spread provides a quick snapshot of trading costs, market depth offers a broader view of liquidity. It measures the volume of buy and sell orders across different price levels, reflecting how well the market can absorb large trades without significant price impact. A deep market has a high volume of orders on both sides, ensuring smoother execution for larger trades.
 
-[diagram holder]
+![alt_text](https://github.com/tamamatammy/sraf/blob/main/research/images/market_depth.jpg)
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Figure: A order book view of market depth for the BTC-USD pair
 
 As all data are offchain, users have to rely on the exchange’s data under the assumptions that it covers all the data required for liquidity calculation and its data quality can be trusted. Traditional market liquidity risk metrics like market depth can be used to measure stablecoin liquidity at CEX.
 
+
+
+**To compare liquidity at DEX:**
