@@ -9,7 +9,9 @@ In a nutshell, there are three types of issuers that controls the the issuance a
 - **DAO**. A dynamic set of parties, determined by their asset weight in the form of the protocol’s governance token. Any updates to the issuance and redemption process have to be approved by majority vote
 - **Protocol algorithm**. A set of predefined rules that were written in the protocol’s smart contract code. It cannot be changed after the stablecoin is launch
 
-## Factors
+## Issuance and redemption risk metrics 
+
+To evaluate and compare stablecoin issuance and redemption risk, the following risk metrics should be considered:
 
 - **Issuer**: name of the issuer - e.g. Coinbase, Tether, Sky, etc
 - **Issuer type**: Type of the issuer
