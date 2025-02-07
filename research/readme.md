@@ -25,7 +25,7 @@ The following are the risk categories and the recommended metrics for assessing 
   - [Governance](https://github.com/tamamatammy/sraf/blob/main/research/governance.md)
   - [Smartcontract](https://github.com/tamamatammy/sraf/blob/main/research/smart_contract.md)
   - [Oracle](https://github.com/tamamatammy/sraf/blob/main/research/oracle.md)
-  - [Regulatory Risk](https://github.com/tamamatammy/sraf/blob/main/research/regulatory_risk.md)
+  - [Regulatory Risk](https://github.com/tamamatammy/sraf/blob/main/research/regulatory_risk.md) -- to do
 
 In the third section, we introduce a new stablecoin risk assessment framework that evaluates risk across multiple dimensions and highlights the need for an overall stablecoin rating.
 
