@@ -31,6 +31,10 @@ In the third section, we introduce a new stablecoin risk assessment framework th
 
 - [Current challenge of having a single rating](https://github.com/tamamatammy/sraf/blob/main/research/single_rating_challenge.md)
 
-To do
-- capital buffer?
-- add a summary section?
+
+---------------
+Open items
+- get reviewers to finish review
+- Promotion
+  - X tweet 
+  - blogpost for medium, mirror.xyz or linkedin
