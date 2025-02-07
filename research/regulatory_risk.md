@@ -1,5 +1,5 @@
 # Regulatory Risk
-After the fall of Terra, authorities in major jurisdictions have accelerated efforts to regulate and supervise stablecoins. Some sets to establish new regulatory regime specific for stablecoins (e.g. MiCA), and some have already taken actions using the existing frameworks (e.g. SEC). Although countries around the world take different approaches on how to regulate stablecoin, there are many similarities when it comes to key concerns and requirements. The two main questions that public authorities are seeking answers to are:
+After the [fall of Terra](https://github.com/tamamatammy/sraf/blob/main/research/terra_collapse.md), authorities in major jurisdictions have accelerated efforts to regulate and supervise stablecoins. Some sets to establish new regulatory regime specific for stablecoins (e.g. MiCA), and some have already taken actions using the existing frameworks (e.g. SEC). Although countries around the world take different approaches on how to regulate stablecoin, there are many similarities when it comes to key concerns and requirements. The two main questions that public authorities are seeking answers to are:
 
 1. Do stablecoins pose risks to consumers and the broader economy?
 2. Can stablecoins serve as a means of payment and a store of value?
