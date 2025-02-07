@@ -24,7 +24,7 @@ The following are the risk categories and the recommended metrics for assessing 
   - [Issuance and Redemption process](https://github.com/tamamatammy/sraf/blob/main/research/issuance_redemption.md)
   - [Liquidity](https://github.com/tamamatammy/sraf/blob/main/research/liquidity.md)
   - [Governance](https://github.com/tamamatammy/sraf/blob/main/research/governance.md)
-  - [Smartcontract](link) - not done
+  - [Smartcontract](https://github.com/tamamatammy/sraf/blob/main/research/smart_contract.md)
   - [Oracle](link) - not done
   - [Regulatory Risk](https://github.com/tamamatammy/sraf/blob/main/research/regulatory_risk.md)
 
