@@ -15,6 +15,6 @@ To evaluate and compare stablecoin governance models, the following risk metrics
 
 ![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/governance_metrics.jpg)
 
-The table below provides an example of high-level asset backing risk analysis for USDC, USDT, DAI, and LUSD as of Oct 2023.
+The table below provides an example of high-level governance process comparison for USDC, USDT, DAI, and LUSD as of Oct 2023.
 
 ![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/governance_example.jpg)
