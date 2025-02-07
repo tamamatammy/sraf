@@ -1,5 +1,4 @@
 # Stablecoin Risk Assessment Framework
-## Introduction
 
 Historically, stablecoin popularity was driven by market metrics like market share and market cap. However, the collapse of Terra in October 2022 served as a wake-up call for the crypto industry—could this disaster have been avoided? The answer is yes, but only by acknowledging and managing the inherent risks associated with stablecoins.
 
@@ -25,9 +24,13 @@ The following are the risk categories and the recommended metrics for assessing 
   - [Liquidity](https://github.com/tamamatammy/sraf/blob/main/research/liquidity.md)
   - [Governance](https://github.com/tamamatammy/sraf/blob/main/research/governance.md)
   - [Smartcontract](https://github.com/tamamatammy/sraf/blob/main/research/smart_contract.md)
-  - [Oracle](link) - not done
+  - [Oracle](https://github.com/tamamatammy/sraf/blob/main/research/oracle.md)
   - [Regulatory Risk](https://github.com/tamamatammy/sraf/blob/main/research/regulatory_risk.md)
 
 In the third section, we introduce a new stablecoin risk assessment framework that evaluates risk across multiple dimensions and highlights the need for an overall stablecoin rating.
 
 - [Current challenge of having a single rating](https://github.com/tamamatammy/sraf/blob/main/research/single_rating_challenge.md)
+
+To do
+- capital buffer?
+- add a summary section?
