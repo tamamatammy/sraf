@@ -39,4 +39,13 @@ For custodial stablecoins, users must rely on centralized entities for asset ver
 
 ## Asset Backing Risk Assessment Example
 The table below provides an example of high-level asset backing risk analysis for USDC, USDT, DAI, and LUSD as of Oct 2023.
-![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/asset_back_analysis.jpg)
+
+| **Metric**           | **USDC** | **USDT** | **DAI** | **LUSD** |  
+|----------------------|---------|---------|---------|---------|  
+| **Asset Type**       | Exogenous | Exogenous | Exogenous | Exogenous |  
+| **Asset Back Ratio** | >100% | >100% | >100% | >100% |  
+| **Asset Breakdown**  | 85% short US treasuries, 15% cash at US banks | 58% US T-Bills, 11% MMFs, 8% bank deposits, 5% cash equivalents, mix of corporate bonds, funds, metals, secured loans, digital tokens | 44% USDC, 10% USDP, 7% GUSD, remainder overcollateralized by other cryptocurrencies (mostly ETH) | 100% ETH |  
+| **Validation of RWA** | Annual audit, Monthly attestation | Monthly attestation | Tokenized RWA | Not required |  
+| **Asset Location**   | US Banks | Unknown | Onchain | Onchain |  
+| **Information Quality** | Medium | Very Low | High | Transparent |  
+
