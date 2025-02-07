@@ -23,7 +23,7 @@ The following are the risk categories and the recommended metrics for assessing 
   - [Stability Mechanism and Historical Stability Performance](https://github.com/tamamatammy/sraf/blob/main/research/stability_risk.md)
   - [Issuance and Redemption process](https://github.com/tamamatammy/sraf/blob/main/research/issuance_redemption.md)
   - [Liquidity](https://github.com/tamamatammy/sraf/blob/main/research/liquidity.md)
-  - [Governance](https://github.com/tamamatammy/sraf/new/main/research) - not done
+  - [Governance](https://github.com/tamamatammy/sraf/blob/main/research/governance.md)
   - [Smartcontract](link) - not done
   - [Oracle](link) - not done
   - [Regulatory Risk](https://github.com/tamamatammy/sraf/blob/main/research/regulatory_risk.md)
