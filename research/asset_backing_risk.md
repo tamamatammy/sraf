@@ -38,5 +38,5 @@ For custodial stablecoins, users must rely on centralized entities for asset ver
 - Frequency of Verification: More frequent verification is generally better, but the quality of the verification process is key—a less frequent audit is often more reliable than frequent attestations.
 
 ## Asset Backing Risk Assessment Example
-The table below provides example of high-level asset bakcing risk analysis for USDC, USDT, DAI, and LUSD as of Oct 2023.
+The table below provides an example of high-level asset backing risk analysis for USDC, USDT, DAI, and LUSD as of Oct 2023.
 ![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/asset_back_analysis.jpg)
