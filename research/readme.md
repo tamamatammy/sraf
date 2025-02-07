@@ -22,7 +22,7 @@ The following are the risk categories and the recommended metrics for assessing 
   - [Asset Backing](https://github.com/tamamatammy/sraf/blob/main/research/asset_backing_risk.md)
   - [Stability Mechanism and Historical Stability Performance](https://github.com/tamamatammy/sraf/blob/main/research/stability_risk.md)
   - [Issuance and Redemption process](https://github.com/tamamatammy/sraf/blob/main/research/issuance_redemption.md)
-  - [Liquidity](link) - not done
+  - [Liquidity](https://github.com/tamamatammy/sraf/blob/main/research/liquidity.md)
   - [Governance](link) - not done
   - [Smartcontract](link) - not done
   - [Oracle](link) - not done
