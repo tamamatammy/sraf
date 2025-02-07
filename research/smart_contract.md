@@ -16,5 +16,5 @@ The framework measures smart contract risk by assessing:
 - How well the smart contract code has been tested
 
 ## Smart contract risk metrics
-To evaluate and compare stablecoin governance models, the following risk metrics should be considered:
+To evaluate and compare stablecoin smart contract risk, the following risk metrics should be considered:
 ![alt_text](https://github.com/tamamatammy/sraf/blob/main/research/images/smart_contract_metrics.jpg)
