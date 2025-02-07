@@ -34,16 +34,36 @@ As the crypto sector is still relatively young, we are yet to see any mature reg
 - **Restricting operations**. Authorities may restrict stablecoin operations in their jurisdictions. For example, Libra faced significant regulatory scrutiny from U.S. and EU regulators, leading to a restructuring of the project. This regulatory pressure ultimately resulted in the project's rebranding and changes to meet compliance requirements. Despite these efforts, Diem's assets were sold to Silvergate Bank in early 2022, effectively ending the original project's ambitions.
 
 ## Risk Metrics
-The stablecoin and crypto sector is still relatively young, and a mature regulatory  framework has yet to be established. Most regulations are still in the discussion or consultation phase, making it challenging to quantify regulatory risk. Instead, our goal is to define a list of qualitative metrics to help stablecoin users better understand the regulatory risks involved.
-We believe that regulatory risk for stablecoin users is largely driven by who the authorities are and whether they are friendly towards crypto. The following are the risk factors we have chosen to address these two questions:
 
-- **Stablecoin Type**: Whether the stablecoin is custodial or non-custodial.
-- **Company Jurisdiction**: The country or region where the stablecoin project conducts its business.
-- **Key Markets Breakdown**: The percentage breakdown of stablecoin activities in key markets.
-- **Regulatory History**: Past actions taken by authorities against stablecoin or crypto-related projects.
-- **Stablecoin-Specific Regulatory Framework in Company Jurisdiction**: Whether a stablecoin-specific regulatory framework is established in the stablecoin’s company jurisdiction.
-- **Stablecoin-Specific Regulatory Framework in Key Markets**: Whether a stablecoin-specific regulatory framework is established in the stablecoin’s key markets.
+The stablecoin and crypto sector is still relatively young, and a mature regulatory  framework has yet to be established. Most regulations are still in the discussion or consultation phase, making it challenging to quantify regulatory risk. Therefore, we have established a semi-analytic approach that can objectively help stablecoins to better understand regulatory risks 
+We believe that regulatory risk for users is largely driven by the stablecoin designs, who the authorities are,  and whether they are friendly towards crypto.
+To evaluate and compare stablecoin regulatory risk, we should consider risk metrics at the stablecoin level and at the regional level.
 
-These qualitative metrics can provide a basic understanding of the regulatory risks that stablecoin users may face.
+![alt_text](https://github.com/tamamatammy/sraf/blob/main/research/images/regulatory%20high%20level.jpg)
 
-## Regulatory Risk Assessment Example
+### Stablecoin-level risk metrics
+
+| **Factor**                          | **Description** |  
+|--------------------------------------|----------------|  
+| **Stablecoin Type**                  | Custodial or non-custodial |  
+| **Operation Location**               | Where the stablecoin project is registered |  
+| **Issuer**                           | Who is responsible for issuance and redemption, and what authorities have jurisdiction over the issuer |  
+| **Reserve Custodian Location**       | Where the reserve assets are held and whether the reserves are bankruptcy remote |  
+| **If Reserve is Bankruptcy Remote**  | If the stablecoin project or the reserve custodian goes bankrupt, other creditors do not have a claim on the stablecoin reserves |  
+| **% Supply at Key CEX**              | Portion of the stablecoin supply held on centralized exchanges and the likelihood of trading restrictions by regulators in the EU, UK, US, SGP, etc. |  
+| **% Jurisdictional Exposure of Reserve Assets** | Portion of the reserve’s real-world assets (RWA) by region. For example, holding US Treasuries exposes the stablecoin to US laws and regulations. |  
+
+
+### Regional-level risk metrics
+
+| **Factor**                              | **Description** |  
+|-----------------------------------------|------------------------------------------------------------------|  
+| **Key Authorities**                     | Key regulatory bodies overseeing crypto and stablecoins |  
+| **Regulatory History**                   | Past regulatory events related to crypto projects |  
+| **Stablecoin Regulatory Framework Progress** | Whether the jurisdiction has a stablecoin-specific regulatory framework and its current status |  
+
+The table below provides an example of high-level governance process comparison for USDC, USDT, and DAI,as of July, 2024.
+
+![alt_text](https://github.com/tamamatammy/sraf/blob/main/research/images/regulatory_example.jpg)
+
+
