@@ -43,7 +43,7 @@ To evaluate and compare stablecoin regulatory risk, we should consider risk metr
 
 ### Stablecoin-level risk metrics
 
-| **Factor**                          | **Description** |  
+| **Metric**                          | **Description** |  
 |--------------------------------------|----------------|  
 | **Stablecoin Type**                  | Custodial or non-custodial |  
 | **Operation Location**               | Where the stablecoin project is registered |  
@@ -56,7 +56,7 @@ To evaluate and compare stablecoin regulatory risk, we should consider risk metr
 
 ### Regional-level risk metrics
 
-| **Factor**                              | **Description** |  
+| **Metric**                              | **Description** |  
 |-----------------------------------------|------------------------------------------------------------------|  
 | **Key Authorities**                     | Key regulatory bodies overseeing crypto and stablecoins |  
 | **Regulatory History**                   | Past regulatory events related to crypto projects |  
