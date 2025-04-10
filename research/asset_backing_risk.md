@@ -14,6 +14,7 @@ It’s common for stablecoin projects to use a mix of exogenous and endogenous a
 The table below provides examples of the asset types chosen by various stablecoins to back their value, including projects like Terra’s UST, Iron, Basis, and NuBit, all of which have since failed.
 
 ![alt text](https://github.com/tamamatammy/sraf/blob/main/research/images/asset_type_example.jpg)
+<img src="images/asset_type_example.jpg" alt= 'asset type compaison example' class="inline"/>
 
 ## Risk Metrics
 The following is a comprehensive list of risk metrics recommended for assessing stablecoin asset backing risks.
